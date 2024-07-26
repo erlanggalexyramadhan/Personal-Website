@@ -190,7 +190,7 @@ const Home = () => {
             </div>
           </div>
           <Image
-            src="/Personal-Website/hero.png"
+            src="/Personal-Website/hero.PNG"
             className="loader-2"
             width={500}
             height={500}
