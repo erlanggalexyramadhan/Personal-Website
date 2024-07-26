@@ -190,7 +190,7 @@ const Home = () => {
             </div>
           </div>
           <Image
-            src="`${prefix}/images/hero.png`"
+            src="/images/hero.png"
             className="loader-2"
             width={500}
             height={500}
@@ -228,14 +228,14 @@ const Home = () => {
             </div>
             <div className="footer-nav">
               <Image
-                src="`${prefix}/images/poster1.jpeg`"
+                src="/images/poster1.jpeg"
                 width={500}
                 height={500}
                 alt=""
                 className="img"
               />
               <Image
-                src="`${prefix}/images/poster2.png`"
+                src="/images/poster2.png"
                 width={500}
                 height={500}
                 alt=""
