@@ -85,7 +85,7 @@ const ScrollTriggerComponent: React.FC = () => {
                 <h2 className="title">
                   To-Do List <span className="stroke">React</span>
                 </h2>
-                <a href="https://github.com/erlanggalexyramadhan/To-Do-List-React" className="work-link">
+                <a href="https://erlanggalexyramadhan.github.io/To-Do-List-React/" className="work-link">
                   view
                 </a>
               </div>
