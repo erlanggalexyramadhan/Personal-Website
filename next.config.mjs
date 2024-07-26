@@ -7,7 +7,7 @@ const nextConfig = {
     loader: 'default',
     path: '/Personal-Website/_next/image',
     disableStaticImages: true,
-    domains: ['erlanggalexyramadhan.github.io'],
+    domains: ['erlanggalexyramadhan.github.com'],
   },
     images: {
         domains: ['github.com'],
