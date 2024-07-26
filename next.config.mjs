@@ -2,8 +2,10 @@
 const nextConfig = {
     output: "export",
     basePath: "/Personal-Website",
+    assetPrefix: "/Personal-Website",
     images: {
-    unoptimized: true,
+    loader: 'imgix',
+    path: '/',
   },
     images: {
         domains: ['github.com'],
