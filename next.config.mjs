@@ -2,7 +2,7 @@
 const nextConfig = {
     output: "export",
     basePath: "/Personal-Website",
-    assetPrefix: "/Personal-Website",
+    assetPrefix: "/Personal-Website/",
     images: {
     loader: 'imgix',
     path: '/',
