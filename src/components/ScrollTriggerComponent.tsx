@@ -108,7 +108,7 @@ const ScrollTriggerComponent: React.FC = () => {
             <div className="work-photo">
               <div className="work-photo-item" title="1">
                 <Image
-                  src="/Personal-Website/images/web1.png"
+                  src="https://github.com/erlanggalexyramadhan/Personal-Website/tree/main/public/images/web1.png"
                   width={1080}
                   height={1080}
                   alt=""
@@ -116,7 +116,7 @@ const ScrollTriggerComponent: React.FC = () => {
               </div>
               <div className="work-photo-item" title="2">
                 <Image
-                  src="/Personal-Website/images/web2.png"
+                  src="https://github.com/erlanggalexyramadhan/Personal-Website/tree/main/public/images/web2.png"
                   width={1080}
                   height={1080}
                   alt=""
@@ -125,7 +125,7 @@ const ScrollTriggerComponent: React.FC = () => {
               </div>
               <div className="work-photo-item" title="3">
                 <Image
-                  src="/Personal-Website/images/web3.png"
+                  src="https://github.com/erlanggalexyramadhan/Personal-Website/tree/main/public/images/web3.png"
                   width={1080}
                   height={1440}
                   alt=""
