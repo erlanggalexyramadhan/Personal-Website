@@ -3,7 +3,7 @@ const nextConfig = {
     output: "export",
     basePath: '/Personal-Website',
     images: {
-        domains: ['aceternity.com'],
+        domains: ['github.com'],
     },
     images: {
         remotePatterns: [
