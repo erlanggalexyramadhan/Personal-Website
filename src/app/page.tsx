@@ -190,7 +190,7 @@ const Home = () => {
             </div>
           </div>
           <Image
-            src="https://github.com/erlanggalexyramadhan/Personal-Website/blob/main/images/hero.png"
+            src="./next.svg"
             className="loader-2"
             width={500}
             height={500}
