@@ -4,23 +4,8 @@ const nextConfig = {
     basePath: "/Personal-Website",
     assetPrefix: "/Personal-Website/",
     images: {
-    loader: 'default',
-    path: '/Personal-Website/_next/image',
-    disableStaticImages: true,
-    domains: ['erlanggalexyramadhan.github.com'],
+    unoptimized: true,
   },
-    images: {
-        domains: ['github.com'],
-    },
-    images: {
-        remotePatterns: [
-            {
-                hostname: 'github.com',
-            }
-        ]
-
-    }
-
 };
 
 export default nextConfig;
