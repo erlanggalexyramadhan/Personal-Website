@@ -190,7 +190,7 @@ const Home = () => {
             </div>
           </div>
           <Image
-            src="./images/hero.png"
+            src="`${prefix}/images/hero.png`"
             className="loader-2"
             width={500}
             height={500}
@@ -201,7 +201,7 @@ const Home = () => {
         <div className="site-content">
           <nav>
             <div className="logo font-bold hover:cursor-pointer">
-              <Link href="/" className="logo font-bold hover:cursor-pointer">
+              <Link href="/" className="logo font-bold cursor-pointer">
                 LEX
               </Link>
             </div>
@@ -228,14 +228,14 @@ const Home = () => {
             </div>
             <div className="footer-nav">
               <Image
-                src="./images/poster1.jpeg"
+                src="`${prefix}/images/poster1.jpeg`"
                 width={500}
                 height={500}
                 alt=""
                 className="img"
               />
               <Image
-                src="./images/poster2.png"
+                src="`${prefix}/images/poster2.png`"
                 width={500}
                 height={500}
                 alt=""
