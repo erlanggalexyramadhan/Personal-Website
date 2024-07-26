@@ -4,8 +4,10 @@ const nextConfig = {
     basePath: "/Personal-Website",
     assetPrefix: "/Personal-Website/",
     images: {
-    loader: 'imgix',
-    path: '/',
+    loader: 'default',
+    path: '/Personal-Website/_next/image',
+    disableStaticImages: true,
+    domains: ['erlanggalexyramadhan.github.io'],
   },
     images: {
         domains: ['github.com'],
