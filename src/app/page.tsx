@@ -7,7 +7,6 @@ import CSSRulePlugin from "gsap/CSSRulePlugin";
 import ScrollTrigger from "@/components/ScrollTriggerComponent";
 import StickyFooter from "@/components/StickyFooter";
 import Link from "next/link";
-import { prefix } from "../../utils/prefix";
 
 gsap.registerPlugin(CSSRulePlugin);
 const Home = () => {
@@ -191,7 +190,7 @@ const Home = () => {
             </div>
           </div>
           <Image
-            src={`${prefix}/images/hero.png`}
+            src="https://github.com/erlanggalexyramadhan/Personal-Website/blob/main/public/images/hero.png"
             className="loader-2"
             width={500}
             height={500}
