@@ -190,7 +190,7 @@ const Home = () => {
             </div>
           </div>
           <Image
-            src="https://github.com/erlanggalexyramadhan/Personal-Website/blob/main/public/images/hero.png"
+            src="/Personal-Website/hero.png"
             className="loader-2"
             width={500}
             height={500}
